@@ -2,7 +2,7 @@ import Aboutdika from "./components/Aboutdika"
 import Contact from "./components/Contact"
 import Experience from "./components/Experience"
 import Mainandika from "./components/Mainandika"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
 
